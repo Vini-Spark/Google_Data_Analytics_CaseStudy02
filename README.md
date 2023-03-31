@@ -16,3 +16,6 @@ This repository contains the second case study made for the capstone project of 
 In this case study, we analyze the behavior of users who use gadgets to evaluate data about their health, such as steps, calories burned, intensities, time and distances in activities.
 
 Yes, the course teaches R and I did the case study in python.
+
+
+To see the Case Study I recommend to download the html file, since the jupyter notebook doesn't show the graphs.
